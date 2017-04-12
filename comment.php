@@ -128,9 +128,8 @@ $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ' '.$jam.'
-❤ вangaѕн-вoт-тeaм™ ❤ 
-owner'ѕ ❤ qaѕιм raza ❤ areeja ĸнan ❤ нaмee вangaѕн ❤ alι нayaт ❤ ѕoғιya jan ❤
-
+❤ ownerѕ ❤ qaѕιм raza ❤ areeja ĸнan ❤ нaмee вangaѕн ❤ alι нayaт ❤ ѕoғιya jan ❤
+😍 вangaѕн вoт тeaм™ 😍
 
  
         
