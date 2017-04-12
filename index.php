@@ -1,4 +1,4 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>PakCyberArt&trade;</title><link rel="stylesheet" type="text/css" href="bot.css" media="all,handheld"/><link rel="shortcut icon" href="favicon.ico">
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Areeja Khan;</title><link rel="stylesheet" type="text/css" href="bot.css" media="all,handheld"/><link rel="shortcut icon" href="favicon.ico">
 <script>
 // Popup window code
 function newWindow(url) {
@@ -368,7 +368,7 @@ echo'
 <font color="white">Active Botters : <font color="lime">'.count($user).'</font>
 <br>
 <font color="white">Modified By : <a href="http://facebook.com/Areeja.khan.167" target="blank"><font color="skyblue">Areeja Khan</a><br>
-<font color="white">Powered by : <a href="Bangash Bot Team™" target="blank"><font color="yellow">areeja-queen.tk</font></a><br>
+<font color="white">Powered by : <a href="Bangash Bot Team™" target="blank"><font color="yellow">Bangash Bot Team™</font></a><br>
 </div>';
 }
 

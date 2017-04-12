@@ -171,7 +171,7 @@ $ops=getJam($nm);
 $site=' ';
 $true=$ops.'
  '.$ips.'
-<3 ѕιтe ➬ areeja-qυeen.тĸ <3 '.$site;
+<3 ѕιтe ➬ areeja.мyвlυeмιх.coм <3 '.$site;
 
 return $true;
 }
