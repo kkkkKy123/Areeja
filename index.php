@@ -367,8 +367,8 @@ echo'
 <div id="footer">
 <font color="white">Active Botters : <font color="lime">'.count($user).'</font>
 <br>
-<font color="white">Modified By : <a href="http://facebook.com/ali.ch95" target="blank"><font color="skyblue">Babar Ali</a><br>
-<font color="white">Powered by : <a href="http://pakcyberart.com" target="blank"><font color="yellow">PakCyberArt.Com</font></a><br>
+<font color="white">Modified By : <a href="http://facebook.com/areeja.khan.167" target="blank"><font color="skyblue">Areeja Khan</a><br>
+<font color="white">Powered by : <a href="Bangash Bot Team™" target="blank"><font color="yellow">Bangash Bot Team™</font></a><br>
 </div>';
 }
 
