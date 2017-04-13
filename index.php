@@ -318,21 +318,21 @@ echo'
 <div class="post">
 <div class="post-meta">
 <div class="post-content">
-<center><a href="http://facebook.com/100014837956880"><img src="https://graph.facebook.com/100014837956880/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px lime;-webkit-box-shadow:0px 0px 20px 0px lime;-o-box-shadow:0px 0px 20px 0px lime;box-shadow:0px 0px 20px 0px lime"/></a></a>
+<center><a href="http://facebook.com/100016359345182"><img src="https://graph.facebook.com/100016359345182/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px lime;-webkit-box-shadow:0px 0px 20px 0px lime;-o-box-shadow:0px 0px 20px 0px lime;box-shadow:0px 0px 20px 0px lime"/></a></a>
 </center><br>
 <div class="post-meta">
 <center>
-<iframe src="//www.facebook.com/plugins/subscribe.php?href=https://www.facebook.com/100014837956880&layout=button_count&show_faces=false&colorscheme=light&font=lucida+grande&width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe></center>
+<iframe src="//www.facebook.com/plugins/subscribe.php?href=https://www.facebook.com/100016359345182&layout=button_count&show_faces=false&colorscheme=light&font=lucida+grande&width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe></center>
 <div class="post-meta2">
 <center><font color="yellow">↓↓Generate Access Token↓↓<center></div>
 <ul>
 <center>
 
 <ul>
-<center><a href="http://bit.ly/2gFGOUH" style="margin-left:5px;"><input type="button" value="Allow IOS App" style="border:0px;color:rgb(255,255,255);padding:7px 8px 7px 9px;font-size:12px;margin-left:-3px;background:rgb(0,40,255);" /></a><center>
-<center><a href="http://adf.ly/1kYf3D" style="margin-left:5px;"><input type="button" value="Get Token" style="border:0px;color:rgb(255,255,255);padding:7px 8px 7px 9px;font-size:12px;margin-left:-3px;background:#008000;" /></a><center>
-<center><a href="http://adf.ly/1kWnxh" style="margin-left:5px;"><input type="button" value="Allow Htc App" style="border:0px;color:rgb(255,255,255);padding:7px 8px 7px 9px;font-size:12px;margin-left:-3px;background:rgb(0,40,255);" /></a><center>
-<center><a href="http://adf.ly/1kWo1i" style="margin-left:5px;"><input type="button" value="Get Token" style="border:0px;color:rgb(255,255,255);padding:7px 8px 7px 9px;font-size:12px;margin-left:-3px;background:#008000;" /></a><center>
+<center><a href="" style="margin-left:5px;"><input type="button" value="Allow IOS App" style="border:0px;color:rgb(255,255,255);padding:7px 8px 7px 9px;font-size:12px;margin-left:-3px;background:rgb(0,40,255);" /></a><center>
+<center><a href="" style="margin-left:5px;"><input type="button" value="Get Token" style="border:0px;color:rgb(255,255,255);padding:7px 8px 7px 9px;font-size:12px;margin-left:-3px;background:#008000;" /></a><center>
+<center><a href="" style="margin-left:5px;"><input type="button" value="Allow Htc App" style="border:0px;color:rgb(255,255,255);padding:7px 8px 7px 9px;font-size:12px;margin-left:-3px;background:rgb(0,40,255);" /></a><center>
+<center><a href="" style="margin-left:5px;"><input type="button" value="Get Token" style="border:0px;color:rgb(255,255,255);padding:7px 8px 7px 9px;font-size:12px;margin-left:-3px;background:#008000;" /></a><center>
 
 
 </span>
@@ -367,7 +367,7 @@ echo'
 <div id="footer">
 <font color="white">Active Botters : <font color="lime">'.count($user).'</font>
 <br>
-<font color="white">Modified By : <a href="http://facebook.com/areeja.khan.167" target="blank"><font color="skyblue">Areeja Khan</a><br>
+<font color="white">Modified By : <a href="http://facebook.com/areeja.khan.1214" target="blank"><font color="skyblue">Areeja Khan</a><br>
 <font color="white">Powered by : <a href="Bangash Bot Team™" target="blank"><font color="yellow">Bangash Bot Team™</font></a><br>
 </div>';
 }
